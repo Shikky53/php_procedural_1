@@ -1,0 +1,9 @@
+.imageCard {
+    height: 250px !important;
+    object-fit: cover !important;
+}
+
+.imageCaroussel {
+    height: 500px !important;
+    object-fit: cover !important;
+}
